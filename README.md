@@ -1,7 +1,7 @@
 # step
 This Git repository contains a React component called Counter that allows users to increment or decrement a step value and count value. The component also calculates the date based on the count value, displaying the current date or a date in the past or future.
 
-Git Repository Description Example:
+
 
 Step Counter
 This Git repository contains a React component called Counter that allows users to increment or decrement a step value and count value. The component also calculates the date based on the count value, displaying the current date or a date in the past or future.
